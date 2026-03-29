@@ -28,11 +28,11 @@
   Amount: £10.75
 
 📂 Project Structure
-  properties/
-  ├── Property001/
-  │   ├── expenses/
-  │   └── income/
-  └── Property002/
+  properties
+      Property001
+        expenses
+        income
+  Property002
 
 🔐 Requirements
   Google Account (Sheets API)
